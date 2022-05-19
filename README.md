@@ -1,3 +1,3 @@
-# scrape_indices
+# Scrape 
 
-Scrapes the Jamaica stock exchange for market summaries.
+Scrapes the Jamaica stock exchange for stock data, market activity and summaries.
